@@ -1,460 +1,124 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719029321363 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719944490171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029324423 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944493233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029327474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944496301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029330525 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944499376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029333567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944502481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029336612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944505538 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029339668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944508585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029342782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944511644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029345859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944514691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029348892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944517753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029351993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944520793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029355045 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944523827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029358100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944526919 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029361151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944529970 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029364205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944533044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029367275 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944536080 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029370313 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944539150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029373362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944542262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029376400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944545342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029379448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944548460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
 civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029382522 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029385610 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029388650 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029391681 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029394717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029397768 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029400825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029403900 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029407113 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029410298 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029413341 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029416371 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029419403 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029422437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029425486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029428558 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029431625 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029434708 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029437770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029440822 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029443884 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029446931 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029449992 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029453076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029456123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029459156 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029462244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029465332 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029468370 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029471403 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029474460 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029477532 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029480579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029483656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029486688 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029489733 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029492801 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029495895 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029498934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029501970 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029505042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029508078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029511112 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029514157 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029517195 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029520231 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029523301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029526355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029529397 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029532464 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029535514 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029538580 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029541643 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029544699 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029547816 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029550870 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-term-silicon.gl.at.ply.gg:1814 => 127.0.0.1:1814 (proto: Udp, port count: 1)
-civil-jane.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719029553925 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719944551568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
